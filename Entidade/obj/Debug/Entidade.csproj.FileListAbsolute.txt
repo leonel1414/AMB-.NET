@@ -1,0 +1,7 @@
+C:\Users\leoo9\source\repos\Entidade\bin\Debug\Entidade.dll.config
+C:\Users\leoo9\source\repos\Entidade\bin\Debug\Entidade.dll
+C:\Users\leoo9\source\repos\Entidade\bin\Debug\Entidade.pdb
+C:\Users\leoo9\source\repos\Entidade\obj\Debug\Entidade.csproj.AssemblyReference.cache
+C:\Users\leoo9\source\repos\Entidade\obj\Debug\Entidade.csproj.CoreCompileInputs.cache
+C:\Users\leoo9\source\repos\Entidade\obj\Debug\Entidade.dll
+C:\Users\leoo9\source\repos\Entidade\obj\Debug\Entidade.pdb
