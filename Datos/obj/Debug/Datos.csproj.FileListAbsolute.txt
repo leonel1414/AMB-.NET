@@ -1,0 +1,10 @@
+C:\Users\leoo9\source\repos\Datos\bin\Debug\Datos.dll
+C:\Users\leoo9\source\repos\Datos\bin\Debug\Datos.pdb
+C:\Users\leoo9\source\repos\Datos\bin\Debug\Entidade.dll
+C:\Users\leoo9\source\repos\Datos\bin\Debug\Entidade.pdb
+C:\Users\leoo9\source\repos\Datos\bin\Debug\Entidade.dll.config
+C:\Users\leoo9\source\repos\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\leoo9\source\repos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\leoo9\source\repos\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\leoo9\source\repos\Datos\obj\Debug\Datos.dll
+C:\Users\leoo9\source\repos\Datos\obj\Debug\Datos.pdb
